@@ -1,6 +1,6 @@
 # stbt
 status bot
-[img](https://telegra.ph/file/a087ff36b32f85224134a.jpg)]
+<h1 align="middle">BT <img src="https://telegra.ph/file/a087ff36b32f85224134a.jpg" />
 # .env contoh
 ``SESSION=
 APP_ID=
