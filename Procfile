@@ -1,0 +1,1 @@
+xpr: python bot.py
